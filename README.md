@@ -1,2 +1,2 @@
 # writeups-
-Official writeups, challenge solutions, and walkthroughs from CyRC-AAU.
+Official writeups, challenge solutions, and walkthroughs from AAUC2.
